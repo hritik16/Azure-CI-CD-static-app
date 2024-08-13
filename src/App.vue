@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    <h1>GenAI and MLOps for ALl</h1>
+    <h1>My AI APP</h1>
 	<h2>Upload your data to get Gen Ai predictions</h2>
     <img
       alt="Vue logo"
